@@ -1,0 +1,6 @@
+output:
+  rhsm/client.go
+package: rhsm
+generate:
+  - types
+  - client

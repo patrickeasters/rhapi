@@ -1,0 +1,6 @@
+output:
+  sources/client.go
+package: sources
+generate:
+  - types
+  - client
